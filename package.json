@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap-icons-html",
+  "version": "1.0.0",
+  "description": "Adds <i data-bi=\"icon-name\" (data-bi-width=\"custom-width\" data-bi-height=\"custom-height\")> for Bootstrap Icons alongside window.bootstrapIconsURL for submitting a custom spritesheet URL (defaults to \"./bootstrap-icons.svg\").",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubenverg/bootstrap-icons-html.git"
+  },
+  "keywords": [
+    "icon",
+    "bootstrap",
+    "html",
+    "bootstrap icon",
+    "bootstrap icons",
+    "icons"
+  ],
+  "author": "Ruben Vergani <me@rubenverg.com> (rubenverg.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rubenverg/bootstrap-icons-html/issues"
+  },
+  "homepage": "https://github.com/rubenverg/bootstrap-icons-html#readme"
+}
